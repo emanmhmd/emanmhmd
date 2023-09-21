@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, there! I'm Eman Mahmoud, a Test Automation Engineer🤖.
+# Hi, there! I'm Eman Mahmoud, a Test Automation Engineer🤖.
 
 🌱 I’m constantly learning and eager to work with new technologies to improve my personal and technical abilities.
 
