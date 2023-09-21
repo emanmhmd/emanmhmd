@@ -1,6 +1,6 @@
 
 
-## 👋 Hi, there! I'm Eman Mahmoud, a Test Automation Engineer🤖.
+# 👋 Hi, there! I'm Eman Mahmoud, a Test Automation Engineer🤖.
 
 🌱 I’m constantly learning and eager to work with new technologies to improve my personal and technical abilities.
 
@@ -10,9 +10,11 @@
 
 📝 I regularly write articles on [Medium](https://medium.com/@emanmhmd).
 
+🎨 I make digital art in my free time [ArtStation](https://emanxdddd.artstation.com/).
+
 Let's connect and learn together!
 
-### Current Roles and Learning:
+# 👩🏻‍💻 Current Roles and Learning:
 
 - 🔭 I'm currently working as a QA Specialist (full-time).
 - 🔭 I'm also working as a Test Automation Engineer (freelance) using Cypress.
