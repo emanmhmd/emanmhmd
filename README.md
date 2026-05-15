@@ -11,14 +11,6 @@ I'm a passionate QA Automation Engineer who loves building reliable test framewo
 
 ---
 
-### 🌱 Currently Learning
-
-- Playwright (advanced patterns)
-- GitHub Actions CI/CD
-- ISTQB Advanced Certification
-
----
-
 ### 🧪 Testing & Automation
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
