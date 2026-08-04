@@ -3,8 +3,8 @@
 </h1>
 I'm a passionate QA Automation Engineer who loves building reliable test frameworks. I thrive in collaborative environments and enjoy tackling real quality challenges.
 
-- 🏢 Working full-time as a **QA Specialist**
-- 💼 Freelancing as a **Test Automation Engineer** using Cypress
+- 🏢 Working full-time as a **QA Engineer**
+- 💼 Freelancing as a **Test Automation Engineer** using Cypress, PLaywright
 - 📝 I write about automation and testing on [Medium](https://medium.com/@emanmhmd)
 - 🎨 I make digital art in my free time on [ArtStation](https://emanxdddd.artstation.com/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emanmhmd/)
